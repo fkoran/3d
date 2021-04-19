@@ -1,6 +1,6 @@
-I wanted a dry box system that was cheap, simple and space efficient.
+#I wanted a dry box system that was cheap, simple and space efficient.
 
-Design goals:
+##Design goals:
 - High density of spools per meter of shelf space
 - Compatible with loose or bagged desiccant
 - Compatible with reverse bowden
@@ -11,14 +11,14 @@ Design goals:
 - Fast print time
 - Parametric and scalable for other dry boxes
 
-Things you need:
+##Things you need:
 
 1. One of the boxes listed below
 2. A 5/32" or 4mm drill bit
 3. 4 mm OD PTFE tubing (ID can be 2 or 3mm)
     Amazon: https://www.amazon.com/gp/product/B01CUPV9KC/
 
-I plan to create models for the following boxes:
+##I plan to create models for the following boxes:
 - Rubbermaid 21 cup cereal box (1x)
 - Iris 19 qt file box (4x)
 - Ikea SAMLA 57x39x28 (4x)
