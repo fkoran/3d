@@ -65,5 +65,15 @@
 - Reference: https://www.thingiverse.com/thing:2047554
 - Spool capacity: 1
 - External width: 70 mm
-- Spools per meter: 1 spools / 70 cm == 14.3 spools per meter
+- Spools per meter: 1 spools / 70 mm == 14.3 spools per meter
 - Dollars per spool: N/A
+
+## Prusa dry box
+
+- Reference: https://www.prusaprinters.org/prints/4577-drybox-for-prusa-printer-enclosure-v2-without-humi
+- Spool capacity: 1
+- External width: 110 mm
+- Spools per meter: 1 spools / 110 mm == 9.1 spools per meter
+- Dollars per spool: N/A
+
+
